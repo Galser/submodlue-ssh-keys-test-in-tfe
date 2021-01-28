@@ -1,0 +1,3 @@
+[submodule "tfc-random-pet"]
+	path = tfc-random-pet
+	url = git@github.com:Galser/tfc-random-pet.git
